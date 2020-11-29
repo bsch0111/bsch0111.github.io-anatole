@@ -1,4 +1,4 @@
-baseURL = "https://www.bsch0111.github.io/"
+baseURL = "https://bsch0111.github.io/"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -29,7 +29,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://www.github.com/bsch0111/"
+url = "https://github.com/bsch0111/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
