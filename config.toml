@@ -1,4 +1,4 @@
-baseURL = "https://bsch0111.github.io/"
+baseURL = "http://www.bsch0111.github.io/"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
