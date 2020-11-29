@@ -1,9 +1,10 @@
 baseURL = "http://bsch0111.github.io/"
-languageCode = "UTF-8"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
+languageCode = "ko-kr"
+defaultContentLanguage = "en-us"
 
 # Enable Disqus
 #disqusShortname = ""
