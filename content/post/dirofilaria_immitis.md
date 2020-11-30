@@ -2,7 +2,7 @@
 title: "고양이 기생충"
 date: 2020-12-01T01:18:55+09:00
 Description: ""
-Tags: ["기생충"]
+Tags: ["고양이 기생충"]
 Categories: ["고양이"]
 DisableComments: false
 ---
@@ -19,7 +19,7 @@ DisableComments: false
 
 ## 예방약
 - 고양이는 먹이는게 어렵기 때문에 바르는 약이 많음
-
+- 당산동1가 동신당 약국
 
 
 [^1]: p276 키디피디아 '구충하기'
