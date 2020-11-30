@@ -2,8 +2,8 @@
 title: "고양이 기생충"
 date: 2020-12-01T01:18:55+09:00
 Description: ""
-Tags: []
-Categories: []
+Tags: ["기생충"]
+Categories: ["고양이"]
 DisableComments: false
 ---
 # 고양이 기생충 [^1]
