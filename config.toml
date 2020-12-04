@@ -7,7 +7,7 @@ languageCode = "ko-kr"
 defaultContentLanguage = "en-us"
 
 # Enable Disqus
-#disqusShortname = ""
+disqusShortname = "bsch0111-github-io"
 
 # Google Analytics
 # googleAnalytics = "UA-123-45"
@@ -20,6 +20,8 @@ profilePicture = "images/profile.jpg"
 favicon = "favicons/"
 keywords = ""
 mainSections = ["post"]
+
+
 
 ## Math settings
 [params.math]
