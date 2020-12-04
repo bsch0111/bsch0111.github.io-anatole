@@ -22,9 +22,9 @@ DisableComments: false
   - 단순 git clone 으로 레파지토리를 복사해서는 안됨.
   
 
-### 질문을 google 으로 . 
+### 질문을 google 으로 . .
 	- submodule 이 있는 git repo clone 후 작업하고 push가 안될 때
-    - git repo clone has submodule  
+    - git repo clone has submodule 
     - https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules
     - 서브 모듈이 있는 레포지토리는 부모 레포를 clone 할때 —recurse-submodules를 넣어주면 서브 모듈에 대한 clone과 init 을 잘해준다.
     ```bash
