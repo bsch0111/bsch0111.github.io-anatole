@@ -19,7 +19,7 @@ DisableComments: false
 ### git clone [path] 를 통한 해결 시도
 * submodule 이 지정이되어있지만 다음과 같은 에러가 발생함
   - fatal: in unpopulated submodule 'public'
-  - 단순 git clone 으로 레파지토리를 복사해서는 안됨
+  - 단순 git clone 으로 레파지토리를 복사해서는 안됨.
 
 ### 질문을 google 으로 .. 
 	- submodule 이 있는 git repo clone 후 작업하고 push가 안될 때
