@@ -39,11 +39,7 @@ https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
   - omf theme 테마명                              
 
 - Fish 쉘 명령어 : https://okky.kr/article/454099
-- Fish shell 환경변수 수정방법
-- https://fishshell.com/docs/current/tutorial.html#path
-- 예시 : set PATH /usr/local/bin /usr/sbin $PATH
-- 적용 : set PATH /usr/local/anaconda3/bin $PATH
- 
+
 ## Python 가상환경 anaconda
 
 pyenv-virtualenv 를 사용하면 좋다고 하지만
@@ -52,7 +48,18 @@ pyenv-virtualenv 를 사용하면 좋다고 하지만
 - 따라한 Python 설치 블로그
 https://medium.com/ayuth/install-anaconda-on-macos-with-homebrew-c94437d63a37
 난 fish shell 을 쓰기 때문에 환경변수 설정을 fishshell로  했다
- 
+
+- Fish shell 환경변수 수정방법
+- https://fishshell.com/docs/current/tutorial.html#path
+- 예시 : set PATH /usr/local/bin /usr/sbin $PATH
+- 적용 : set PATH /usr/local/anaconda3/bin $PATH
+- 터미널을 껏다 키면 적용안됨
+
+- 영구적으로 적용할때는 다음의 예시를 사용
+- 예시 : set -U fish_user_paths /usr/local/bin $fish_user_paths
+- 적용 : set -U fish_user_paths /usr/local/anaconda3/bin $fish_user_paths
+
+
 
 ## 패키지 설치 프로그램 brew
 
