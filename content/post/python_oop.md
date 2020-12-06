@@ -1,5 +1,5 @@
 ---
-title: "Python_oop"
+title: "PYTHON과 객체지향프로그래밍 - 1"
 date: 2020-12-03T00:43:40+09:00
 Description: ""
 Tags: ["python","oop"]

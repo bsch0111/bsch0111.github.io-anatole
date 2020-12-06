@@ -1,5 +1,5 @@
 ---
-title: "Branch_detach"
+title: "부모 레포지토리와 submodule 레포지토리의 포인트가 달라서 생기는 문제"
 date: 2020-12-05T01:28:20+09:00
 Description: ""
 Tags: ["submodule","detach"]
@@ -7,11 +7,9 @@ Categories: ["git"]
 DisableComments: false
 ---
 
-2020/12/05 1. submodule 레포지토리 브런치 포인트 위치
-
-
 # 부모 레포지토리와 submodule 레포지토리의 포인트가 달라서 생기는 문제
-
+- git log
+- 커밋 포인터 중에서 HEAD 와 origin/main 이 다른 것을 확인할 수 있다
 ```bash
 commit 81e8e894f15f76aa85ba72846f125b33007c7a30 (HEAD)
 Author: bsch0111 <bsch0111@naver.com>

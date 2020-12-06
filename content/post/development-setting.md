@@ -1,5 +1,5 @@
 ---
-title: "Mac book Development Setting"
+title: "초기 맥북 개발환경 구성"
 date: 2020-12-04T01:14:14+09:00
 Description: ""
 Tags: ["개발환경구성"]

@@ -1,5 +1,5 @@
 ---
-title: "Problem When Repository Has Submodule"
+title: "Clone 할 레포지토리가 submodule을 포함하고 있을 떄"
 date: 2020-12-04T23:55:06+09:00
 Description: ""
 Tags: ["git","submodule"]

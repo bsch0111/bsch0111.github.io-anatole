@@ -1,5 +1,5 @@
 ---
-title: "Blog_tab_resize"
+title: "hugo anatole 테마 만지기"
 date: 2020-12-05T01:47:19+09:00
 Description: ""
 Tags: ["hugo tab size","hugo column size"]
