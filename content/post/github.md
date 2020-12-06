@@ -1,5 +1,5 @@
 ---
-title: "Github"
+title: "GIT에 대한 궁금증"
 date: 2020-12-04T14:05:11+09:00
 Description: ""
 Tags: []
