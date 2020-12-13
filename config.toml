@@ -52,10 +52,27 @@ url = "mailto:bsch0111@naver.com"
   identifier = "posts"
   url = "/post/"
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
   [[menu.main]]
   name = "About"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
+  [[menu.main]]
+  name = "Categories"
+  weight = 200
+  identifier = "categories"
+  url = "/categories/"
   
 
