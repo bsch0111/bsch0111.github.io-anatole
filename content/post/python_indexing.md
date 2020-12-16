@@ -11,7 +11,7 @@ DisableComments: false
 
 ## 슬라이스
 
-python 에서는 연속되는 여러개의 요소를 가진 자료형을 [시퀀스 자료형(Sequence Types)](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)이라고 합니다. 그리고 이 시퀀스 자료형들은 자신의 하위요소에 접근하기 위해 슬라이스(Slice)를 문법을 사용한다.
+python 에서는 연속되는 여러개의 요소를 가진 자료형을 [시퀀스 자료형(Sequence Types)](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)이라고 한다. 그리고 이 시퀀스 자료형들은 자신의 하위요소에 접근하기 위해 슬라이스(Slice)를 문법을 사용한다.
 
 배열 x에 사용하는 슬라이스 문법은 다음과 같다.
 
