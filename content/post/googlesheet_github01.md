@@ -1,9 +1,9 @@
 ---
-title: "Googlesheet_github01"
+title: "google Sheet에 Github Repo 정보 가져오기"
 date: 2021-01-03T23:39:36+09:00
 Description: ""
-Tags: []
-Categories: []
+Tags: [google_sheet,github_API]
+Categories: [github_API]
 DisableComments: false
 ---
 # google Sheet에 Github Repo 정보 가져오기
