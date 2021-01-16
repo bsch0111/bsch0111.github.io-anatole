@@ -2,7 +2,7 @@
 title: "TOP명령어에대해서알아보기1"
 date: 2021-01-16T18:06:07+09:00
 Description: ""
-Tags: ['top']
+Tags: ['top,linux']
 Categories: ['linux']
 DisableComments: false
 ---
