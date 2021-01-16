@@ -7,7 +7,7 @@ Categories: ['linux']
 DisableComments: false
 ---
 
-<img src='https://i.imgur.com/AdVdyzt.png' width = 700>
+![img](https://i.imgur.com/AdVdyzt.png)
 
 
 ## TOP
@@ -21,4 +21,4 @@ DisableComments: false
 - primary key : MEM (MEM 사용 순으로 출력)
 
 ## CPU를 이용해서 정렬 한 top 출력 결과물
-<img src='https://i.imgur.com/f6eHc2m.png' width = 700>
+![img](https://i.imgur.com/f6eHc2m.png)
