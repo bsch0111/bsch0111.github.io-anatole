@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/bsch0111/bsch0111.github.io.git
-	branch = main
