@@ -25,6 +25,7 @@ git commit -m "$msg"
 git push origin main
 
 cd ../
+
 git add .
 git commit -m "$msg"
 git push origin main
