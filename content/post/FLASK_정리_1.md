@@ -1,7 +1,10 @@
 ---
 title: "FLASK_정리_1"
 date: 2021-03-22T00:55:20+09:00
-draft: true
+Description: ""
+Tags: ['python','flask']
+Categories: ['python','flask']
+DisableComments: false
 ---
 
 ## FLASK 기본정리
